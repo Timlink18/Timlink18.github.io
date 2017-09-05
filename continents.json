@@ -1,0 +1,9 @@
+{"continent": [
+      {"name": "Africa", "lat": 9, "long": 18},
+      {"name": "Antarctica", "lat": -72, "long": -66},
+      {"name": "Asia", "lat": 35, "long": 100},
+      {"name": "Australia", "lat": -25, "long": 133},
+      {"name": "Europe", "lat": 50, "long": 12},
+      {"name": "North America", "lat": 41, "long": -101},
+      {"name": "South America", "lat": -8, "long": -60}
+]}

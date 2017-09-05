@@ -1,0 +1,23 @@
+[
+    {"name": "Triassic", "height": 0, "start": -252, "end": -201},
+    {"name": "Jurassic", "height": 0, "start": -201, "end": -145},
+    {"name": "Cretaceous", "height": 0, "start": -145, "end": -66},
+    {"name": "Paleogene", "height": 0, "start": -66, "end": -23},
+    {"name": "Neogene", "height": 0, "start": -23, "end": -3},
+    {"name": "Quaternary", "height": 0, "start": -3, "end": 0},
+    {"name": "Early", "height": 1, "period": "Triassic", "start": -252, "end": -247},
+    {"name": "Middle", "height": 1, "period": "Triassic", "start": -247, "end": -237},
+    {"name": "Late", "height": 1, "period": "Triassic", "start": -237, "end": -201},
+    {"name": "Early", "height": 1, "period": "Jurassic", "start": -201, "end": -174},
+    {"name": "Middle", "height": 1, "period": "Jurassic", "start": -174, "end": -164},
+    {"name": "Late", "height": 1, "period": "Jurassic", "start": -164, "end": -145},
+    {"name": "Early", "height": 1, "period": "Cretaceous", "start": -145, "end": -101},
+    {"name": "Late", "height": 1, "period": "Cretaceous", "start": -101, "end": -66},
+    {"name": "Paleocene", "height": 1, "period": "Paleogene", "start": -66, "end": -56},
+    {"name": "Eeocene", "height": 1, "period": "Paleogene", "start": -56, "end": -34},
+    {"name": "Oligocene", "height": 1, "period": "Paleogene", "start": -34, "end": -23},
+    {"name": "Miocene", "height": 1, "period": "Neogene", "start": -23, "end": -7},
+    {"name": "Pliocene", "height": 1, "period": "Neogene", "start": -7, "end": -3},
+    {"name": "Pleistocene", "height": 1, "period": "Quaternary", "start": -3, "end": -0.1},
+    {"name": "Holocene", "height": 1, "period": "Quaternary", "start": -0.1, "end": 0}
+]
