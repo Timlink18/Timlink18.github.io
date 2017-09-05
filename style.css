@@ -1,0 +1,188 @@
+/*
+style.css
+
+css stylesheet for Visualization.html
+
+Kevin Timlin
+Harvard Extension School
+2017
+*/
+
+body {
+  width: 1500px;
+}
+
+header {
+  background-color: CadetBlue;
+  height: 45px;
+  color: black;
+  border-style: ridge;
+  border-color: grey;
+  border-width: 5px;
+  border-radius: 15px 15px 10px 10px;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.clearfix {
+  clear: both;
+}
+
+#left {
+  float: left;
+  width: 450px;
+  height: 650px;
+  color: black;
+}
+
+#map_info {
+  border-style: solid;
+  border-color: black;
+  border-width: 2.5px 2.5px 1.25px 2.5px;
+  border-radius: 10px;
+}
+
+#map {
+  width: 445px;
+  height: 400px;
+  background-color: blue;
+}
+
+#geo_info {
+  border-style: solid;
+  border-color: black;
+  border-width: 1.25px 2.5px 2.5px 2.5px;
+  border-radius: 10px;
+}
+
+#prehistMap {
+  float: left;
+  height: 195px;
+  width: 220px;
+}
+
+#climateMap {
+  float: left;
+  height: 195px;
+  width: 220px;
+}
+
+#middle {
+  float: left;
+  width: 595px;
+  height: 655px;
+  background-color: black;
+  color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 2.5px;
+  border-radius: 10px;
+
+}
+
+.div_head {
+  height: 25px;
+  background-color: cadetblue;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  border-bottom-style: solid;
+  border-color: black;
+  border-width: 2.5px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+#tree {
+  width: 595px;
+  height: 625px;
+}
+
+#right {
+  float: right;
+  width: 450px;
+  height: 660px;
+  color: black;
+}
+
+#feather_info {
+  height: 300px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2.5px 2.5px 1.25px 2.5px;
+  border-radius: 10px;
+}
+
+#feather_text_head {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#feather_text {
+  float: left;
+  width: 220px;
+  font-size: 13px;
+}
+
+#feather_pic {
+  float: right;
+  height: 225px;
+  width: 225px;
+}
+
+#dino_info {
+  height: 350px;
+  width: 450px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1.25px 2.5px 2.5px 2.5px;
+  border-radius: 10px;
+}
+
+.info_head {
+  font-weight: bold;
+}
+
+#bottom {
+  float: left;
+  width: 1500px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2.5;
+  border-radius: 10px;
+}
+
+#timeline {
+  float: left;
+  width: 1495px;
+  margin-top: 5px;
+}
+
+.node circle {
+  stroke-width: 5px;
+  stroke: blue;
+}
+
+.node text {
+  font: 20px sans-serif;
+  fill: #999999;
+}
+
+.node--internal circle {
+  stroke-width: 5px;
+  stroke: blue;
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 #222222, 0 -1px 0 #222222, 1px 0 0 #222222, -1px 0 0 #222222;
+}
+
+.link {
+  fill: none;
+  stroke: white;
+  stroke-opacity: 0.5;
+  stroke-width: 5px;
+}
