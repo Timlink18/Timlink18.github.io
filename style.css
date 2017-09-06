@@ -142,6 +142,12 @@ header {
   border-radius: 10px;
 }
 
+#dinopic {
+  height: 100px;
+  width: 100px;
+  float: center;
+}
+
 .info_head {
   font-weight: bold;
 }
