@@ -333,7 +333,7 @@ d3.json("feathers.json", function(error, feathers) {
         // when clicked, update info related to species at that node in feather and info sections
         .on("click", function(d) {
             changeFeatherText("feather_text_head", "feather_text", "feather_pic", d.data.feather, feathers),
-            changeInfoText("dinotest", d.data),
+            changeInfoText("dinopic", d.data),
             updateTimeline("living_era", d.data, ),
             updatePreMap("prehistMap", "climateMap", d.data)
             updateMap("map", continents.continent, d.data.continent);
