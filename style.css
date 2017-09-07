@@ -143,9 +143,9 @@ header {
 }
 
 #dinopic {
-  height: 100px;
-  width: 100px;
-  float: center;
+  height: 500px;
+  width: 500px;
+  float: right;
 }
 
 .info_head {
