@@ -142,6 +142,11 @@ header {
   border-radius: 10px;
 }
 
+#info_pic {
+  height: 200px;
+  width: 450px;
+}
+
 #dinopic {
   max-height: 100%;
   max-width: 100%;
