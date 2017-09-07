@@ -534,7 +534,7 @@ d3.json("feathers.json", function(error, feathers) {
     function changeInfoText(pic, text) {
       var info = "More Information Here";
       var infoLink = info.link("https://en.wikipedia.org/wiki/" + text.name);
-      document.getElementById(pic).src = "http://phylopic.org/assets/images/submissions/350797a4-af1f-4115-b791-84d9b04548b4.thumb.png";
+      document.getElementById(pic).src = "images/" + text.name + ".png";
       document.getElementById("dino_name").innerHTML = text.name;
       document.getElementById("dino_MYA").innerHTML = text.start + " to "+ text.end;
       document.getElementById("dino_continents").innerHTML = text.continent.join(', ');
