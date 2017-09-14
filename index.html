@@ -86,9 +86,10 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.*/
       <pre class = "info_head">Continents:  <span id = "dino_continents" style="font-weight: normal; white-space: pre-wrap"></span></pre>
       <pre class = "info_head">Lineage:  <span id = "dino_lineage" style="font-weight: normal; white-space: pre-wrap"></span></pre>
       <pre id = "dino_link"></pre>
-       <div id = "info_pic">
-        <img style="height: auto, width: 100%;" src = "images/Archosauria.png" id = "dinopic">
-      </div>
+       <figure id = "info_pic">
+        <img style="height: auto, width: 100%;" src = "images/Archosauria.png" id = "dinopic"/>
+        <figcaption id = "caption"></figcaption>
+      </figure>
     </div>
   </div>
   <div id = "bottom">
@@ -544,6 +545,7 @@ d3.json("feathers.json", function(error, feathers) {
       var info = "More Information Here";
       var infoLink = info.link("https://en.wikipedia.org/wiki/" + text.name);
       document.getElementById(pic).src = "images/" + text.name + ".png";
+      document.getElementById("caption").innerHTML = text.img;
       document.getElementById("dino_name").innerHTML = text.name;
       document.getElementById("dino_MYA").innerHTML = text.start + " to "+ text.end;
       document.getElementById("dino_continents").innerHTML = text.continent.join(', ');
