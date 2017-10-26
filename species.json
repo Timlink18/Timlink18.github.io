@@ -1,4 +1,4 @@
-{"name": "Archosauria","feather":	"0",	"start":	-250,	"end":	0,	"continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Reptilia->Archosauria", "img": "Scott Hartman / Creative Commons Attribution 3.0 Unported",
+"name": "Archosauria","feather":	"0",	"start":	-250,	"end":	0,	"continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Reptilia->Archosauria", "img": "Scott Hartman / Creative Commons Attribution 3.0 Unported",
   "children": [
     {"name": "Pterosauria", "feather": "0", "start": -228, "end": -66, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Pterosauria", "img": "Mark Witton / Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
       "children": [
@@ -155,4 +155,4 @@
         {"name": "Crocodiles", "feather": "1", "start": -225, "end": 0, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Pseudosuchia -> Crocodiles", "img":},
         {"name": "Batrachotomus", "feather": "1", "start": -242, "end": -235, "continent": [ "Europe"], "info": "Archosauria -> Pseudosuchia -> Batrachotomus", "img": "Dmitry Bogdanov, T. Micheal Keesey / Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)"}
       ]}
-]}
+]
