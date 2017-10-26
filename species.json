@@ -11,7 +11,7 @@
         {"name": "Saurischia", "feather": "4", "start": -231, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia", "img":"Bruno Navarro / Creative Commons Attribution-NonCommercial 3.0 Unported",
           "children": [
             {"name": "Sauropodomorpha", "feather": "1", "start": -231, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha", "img":"Bruno Navarro / Creative Commons Attribution-NonCommercial 3.0 Unported", 
-              "children": [
+             
                 {"name": "Plateosauria", "feather": "1", "start": -225, "end": -66, "continent": [ "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria", "img": "Andrew Knight / Creative Commons Attribution 3.0 Unported",
                   "children": [
                     {"name": "Massospondylus", "feather": "1", "start": -200, "end": -183, "continent": [ "Africa"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria -> Massospondylus", "img": "Scott Hartman / Creative Commons Attribution 3.0 Unported"},
