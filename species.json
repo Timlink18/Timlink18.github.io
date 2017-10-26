@@ -1,9 +1,2 @@
 {"name": "Archosauria","feather":	"0",	"start":	-250,	"end":	0,	"continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Reptilia->Archosauria", "img": "Scott Hartman / Creative Commons Attribution 3.0 Unported",
-  "children": [
-    {"name": "Pterosauria", "feather": "0", "start": -228, "end": -66, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Pterosauria", "img": "Mark Witton / Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-      "children": [
-        {"name": "Dimorphodon", "feather": "0", "start": -195, "end": -190, "continent": [ "Europe"], "info": "Archosauria -> Pterosauria -> Dimorphodon", "img": "Mark Witton / Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported"},
-        {"name": "Pteranodon", "feather": "0", "start": -86, "end": -84, "continent": [ "North America"], "info": "Archosauria -> Pterosauria -> Pteranodon", "img":"opensource"},
-        {"name": "Quetzalcoatlus", "feather": "0", "start": -68, "end": -66, "continent": [ "South America"], "info": "Archosauria -> Pterosauria -> Quetzalcoatlus", "img": "Mark P. Witton & Darren Naish / Creative Commons Attribution 3.0 Unported"}
-    ]}
-]}
+}
