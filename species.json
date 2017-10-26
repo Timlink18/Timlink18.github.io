@@ -1,4 +1,4 @@
-{"name": "Archosauria","feather":	"0",	"start":	-250,	"end":	0,	"continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Reptilia->Archosauria",
+{"name": "Archosauria","feather":	"0",	"start": -250,	"end":	0,	"continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Reptilia->Archosauria",
   "children": [
     {"name": "Pterosauria", "feather": "0", "start": -228, "end": -66, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Pterosauria",
       "children": [
@@ -8,15 +8,15 @@
     ]},
     {"name": "Dinosauria", "feather": "4", "start": -231, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria",
       "children": [
-        {"name": "Saurischia", "feather": "4", "start": -231, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia"
-          ,"children": [
-            {"name": "Sauropodomorpha", "feather": "1", "start": -231, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha"
-              ,"children": [
+        {"name": "Saurischia", "feather": "4", "start": -231, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia",
+          "children": [
+            {"name": "Sauropodomorpha", "feather": "1", "start": -231, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha",
+              "children": [
                 {"name": "Plateosauria", "feather": "1", "start": -225, "end": -66, "continent": [ "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria",
                   "children": [
                     {"name": "Massospondylus", "feather": "1", "start": -200, "end": -183, "continent": [ "Africa"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria -> Massospondylus"},
-                    {"name": "Sauropoda", "feather": "1", "start": -210, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria -> Sauropoda"
-                      ,"children": [
+                    {"name": "Sauropoda", "feather": "1", "start": -210, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria -> Sauropoda",
+                      "children": [
                         {"name": "Brachiosaurus", "feather": "1", "start": -154, "end": -153, "continent": [ "Africa", "Europe", "North America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria -> Sauropoda -> Brachiosaurus"},
                         {"name": "Diplodocus", "feather": "1", "start": -154, "end": -152, "continent": [ "North America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Sauropodomorpha -> Plateosauria -> Sauropoda -> Diplodocus"}
                       ]}
@@ -27,26 +27,26 @@
             {"name": "Theropoda", "feather": "3", "start": -231, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda",
               "children": [
                 {"name": "Coelophysis", "feather": "4", "start": -203, "end": -196, "continent": [ "North America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Coelophysis"},
-                {"name": "Megalosauria", "feather": "4", "start": -170, "end": -93, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Megalosauria"
-                  ,"children": [
+                {"name": "Megalosauria", "feather": "4", "start": -170, "end": -93, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Megalosauria",
+                  "children": [
                     {"name": "Megalosaurus", "feather": "4", "start": -166, "end": -165, "continent": [ "Europe"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Megalosauria -> Megalosaurus"},
                     {"name": "Spinosaurus", "feather": "4", "start": -112, "end": -93, "continent": [ "Africa"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Megalosauria -> Spinosaurus"}
                   ]},
-                {"name": "Avetheropoda", "feather": "4", "start": -175, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda"
-                  ,"children": [
-                    {"name": "Coelurosauria", "feather": "3", "start": -165, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria"
-                      ,"children": [
+                {"name": "Avetheropoda", "feather": "4", "start": -175, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda",
+                  "children": [
+                    {"name": "Coelurosauria", "feather": "3", "start": -165, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria",
+                      "children": [
                         {"name": "Compsognathidae", "feather": "5", "start": -151, "end": -108, "continent": [ "Asia", "Europe", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Compsognathidae ",
                           "children": [
                             {"name": "Compsognathus", "feather": "5", "start": -151, "end": -150, "continent": [ "Europe"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Compsognathidae -> Compsognathus"},
                             {"name": "Sinosauropteryx", "feather": "5", "start": -124, "end": -122, "continent": ["Asia"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Compsognathidae -> Sinosauropteryx"}
                           ]},
-                        {"name": "Tyrannoraptora", "feather": "6", "start": -156, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora"
-                          ,"children": [
-                            {"name": "Maniraptoriformes", "feather": "6", "start": -167, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes"
-                              ,"children": [
-                                {"name": "Maniraptora", "feather": "6", "start": -167, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora"
-                                  ,"children": [
+                        {"name": "Tyrannoraptora", "feather": "6", "start": -156, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora",
+                          "children": [
+                            {"name": "Maniraptoriformes", "feather": "6", "start": -167, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes",
+                              "children": [
+                                {"name": "Maniraptora", "feather": "6", "start": -167, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora",
+                                  "children": [
                                     {"name": "Pennoraptora", "feather": "8", "start": -167, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora",
                                       "children": [
                                         {"name": "Oviraptorosauria", "feather": "8", "start": -130, "end": -66, "continent": [ "Asia", "North America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Oviraptorosauria",
@@ -55,11 +55,11 @@
                                             {"name": "Oviraptor", "feather": "8", "start": -75, "end": -74, "continent": [ "Asia", "North America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Oviraptorosauria -> Oviraptor"},
                                             {"name": "Incisivosaurus", "feather": "8", "start": -123, "end": -122, "continent": [ "Asia"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Oviraptorosauria -> Incisivosaurus"}
                                         ]},
-                                        {"name": "Paraves", "feather": "10", "start": -163, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Paraves"
-                                          ,"children": [
+                                        {"name": "Paraves", "feather": "10", "start": -163, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Paraves",
+                                          "children": [
                                             {"name": "Eosinopteryx", "feather": "10", "start": -160, "end": -159, "continent": [ "Asia"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Paraves -> Eosinopteryx"},
-                                            {"name": "Avialae", "feather": "9", "start": -160, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Paraves -> Avialae"
-                                              ,"children": [
+                                            {"name": "Avialae", "feather": "9", "start": -160, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Paraves -> Avialae",
+                                              "children": [
                                                 {"name": "Archaeopteryx", "feather": "9", "start": -150, "end": -148, "continent": [ "Europe"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Paraves -> Avialae -> Archaeopteryx"},
                                                 {"name": "Aves", "feather": "9", "start": -125, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Coelurosauria -> Tyrannoraptora -> Maniraptoriformes -> Maniraptora -> Pennoraptora -> Paraves -> Avialae -> Aves"}
                                               ]},
@@ -108,8 +108,8 @@
                 {"name": "Heterodontosaurus", "feather": "3", "start": -200, "end": -190, "continent": [ "Africa"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Heterodontosauridae -> Heterodontosaurus"}
               ]},
             {"name": "Pisanosaurus", "feather": "4", "start": -228, "end": -216, "continent": [ "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Pisanosaurus"},
-            {"name": "Genasauria", "feather": "4", "start": -200, "end": -67, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria"
-              ,"children": [
+            {"name": "Genasauria", "feather": "4", "start": -200, "end": -67, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria",
+              "children": [
                 {"name": "Thyreophora", "feather": "4", "start": -200, "end": -66, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Thyreophora",
                   "children": [
                     {"name": "Stegosaurus", "feather": "4", "start": -155, "end": -150, "continent": [ "Europe", "North America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Thyreophora -> Stegosaurus"},
@@ -117,11 +117,11 @@
                     {"name": "Scelidosaurus", "feather": "4", "start": -197, "end": -183, "continent": [ "Europe"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Thyreophora -> Scelidosaurus"},
                     {"name": "Ankylosaurus", "feather": "4", "start": -68, "end": -66, "continent": [ "North America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Thyreophora -> Ankylosaurus"}
                   ]},
-                {"name": "Neornithischia", "feather": "4", "start": -200, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Neornithischia"
-                  ,"children": [
+                {"name": "Neornithischia", "feather": "4", "start": -200, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Neornithischia",
+                  "children": [
                     {"name": "Agilisaurus", "feather": "4", "start": -168, "end": -161, "continent": [ "Asia"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Neornithischia -> Agilisaurus"},
-                    {"name": "Cerapoda", "feather": "4", "start": -170, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Neornithischia -> Cerapoda"
-                      ,"children": [
+                    {"name": "Cerapoda", "feather": "4", "start": -170, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Neornithischia -> Cerapoda",
+                      "children": [
                         {"name": "Ornithopoda", "feather": "4", "start": -170, "end": -66, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Neornithischia -> Cerapoda -> Ornithopoda",
                           "children": [
                             {"name": "Thescelosaurus", "feather": "4", "start": -67, "end": -66, "continent": [ "North America"], "info": "Archosauria -> Dinosauria -> Ornithischia -> Genasauria -> Neornithischia -> Cerapoda -> Ornithopoda -> Thescelosaurus"},
@@ -156,3 +156,4 @@
         {"name": "Batrachotomus", "feather": "1", "start": -242, "end": -235, "continent": [ "Europe"], "info": "Archosauria -> Pseudosuchia -> Batrachotomus"}
       ]}
 ]}
+
