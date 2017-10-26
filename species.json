@@ -1,4 +1,4 @@
-{"name": "Archosauria","feather":	"0",	"start": -250,	"end":	0,	"continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Reptilia->Archosauria",
+{"name": "Archosauria", "feather": "0", "start": -250, "end":	0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"],"img": "Scott Hartman / Creative Commons Attribution 3.0 Unported", "info": "Reptilia->Archosauria",
   "children": [
     {"name": "Pterosauria", "feather": "0", "start": -228, "end": -66, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "info": "Archosauria -> Pterosauria",
       "children": [
@@ -93,7 +93,7 @@
                       "children": [
                         {"name": "Sinraptor", "feather": "2", "start": -160, "end": -159, "continent": [ "Asia"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Allosauroidea -> Sinraptor"},
                         {"name": "Giganotosaurus", "feather": "2", "start": -97, "end": -96, "continent": [ "South America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Allosauroidea -> Giganotosaurus"},
-                        {"name": "Allosaurus", "feather": "2", "start": -155, "end": -150, "continent": [ "NorthAmerica"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Allosauroidea -> Allosaurus"}
+                        {"name": "Allosaurus", "feather": "2", "start": -155, "end": -150, "continent": [ "North America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Avetheropoda -> Allosauroidea -> Allosaurus"}
                     ]}
                 ]},
                 {"name": "Ceratosaurus", "feather": "4", "start": -153, "end": -148, "continent": [ "North America"], "info": "Archosauria -> Dinosauria -> Saurischia -> Theropoda -> Ceratosaurus"},
