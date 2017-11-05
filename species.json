@@ -1,15 +1,2 @@
 {"name": "Archosauria","feather":	"0",	"start":	-250,	"end":	0,	"continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "img": "Scott Hartman / Creative Commons Attribution 3.0 Unported", "info": "Reptilia->Archosauria",
-  "children": [
-    {"name": "Pterosauria", "feather": "0", "start": -228, "end": -66, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "img": "Mark Witton / Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported", "info": "Archosauria -> Pterosauria",
-      "children": [
-        {"name": "Dimorphodon", "feather": "0", "start": -195, "end": -190, "continent": [ "Europe"], "img": "Mark Witton / Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported", "info": "Archosauria -> Pterosauria -> Dimorphodon"},
-        {"name": "Pteranodon", "feather": "0", "start": -86, "end": -84, "continent": [ "North America"],"img":" ", "info": "Archosauria -> Pterosauria -> Pteranodon"},
-        {"name": "Quetzalcoatlus", "feather": "0", "start": -68, "end": -66, "continent": [ "South America"], "info": "Archosauria -> Pterosauria -> Quetzalcoatlus", "img": "Mark P. Witton & Darren Naish / Creative Commons Attribution 3.0 Unported"}
-    ]},
-    {"name": "Dinosauria", "feather": "4", "start": -231, "end": 0, "continent": [ "Africa", "Antarctica", "Asia", "Australia", "Europe", "North America", "South America"], "img":, "info": "Archosauria -> Dinosauria"},
-    {"name": "Pseudosuchia", "feather": "1", "start": -250, "end": 0, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "img": "Dmitry Bogdanov, / Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)", "info": "Archosauria -> Pseudosuchia",
-      "children": [
-        {"name": "Crocodiles", "feather": "1", "start": -225, "end": 0, "continent": [ "Africa", "Asia", "Australia", "Europe", "North America", "South America"], "img":, "info": "Archosauria -> Pseudosuchia -> Crocodiles"},
-        {"name": "Batrachotomus", "feather": "1", "start": -242, "end": -235, "continent": [ "Europe"], "img": "Dmitry Bogdanov, T. Micheal Keesey / Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)", "info": "Archosauria -> Pseudosuchia -> Batrachotomus"}
-      ]}
 ]}
